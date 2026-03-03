@@ -72,7 +72,7 @@ PING
 - A network utility that is used to test reachability
 - Measures round-trip time
 - Uses two messages:
-    - ICMP Echo REQUEST
+    - ICMP Echo REQUEST(Unicast)
     - ICMP Echo REPLY
 - Is UNICAST
 - Command to use ping:
