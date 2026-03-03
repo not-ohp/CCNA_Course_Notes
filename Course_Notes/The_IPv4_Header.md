@@ -83,7 +83,7 @@ TOTAL LENGTH:
 - Indicates the TOTAL length of the packet (L3 Header + L4 Segment)
 - Measured in bytes (not 4-byte increments like IHL)
 - Minimum value of 20 Bytes (IPv4 Header with NO encapsulated data)
-- Maximum value of 65,535 (MAXIMUM 16-bit value) = 2^16
+- Maximum value of 65,535 (MAXIMUM 16-bit value) = (2^16)-1
 
 ---
 
