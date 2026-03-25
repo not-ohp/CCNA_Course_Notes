@@ -39,6 +39,8 @@ FIELDS OF THE IPv4 HEADER
 
 ---
 
+ 2^n - 1 is the formula to find the maximum value of any of the IPv4 field
+
 VERSION:
 
 - LENGTH is 4 bits.
