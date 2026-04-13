@@ -131,7 +131,7 @@ You use the SAME process as above except when finding Target IPs, you use the 3r
 
 Example: 10.4.77.188 /19 → Subnet : 255.255.224.0
 
-256 - 224 = 32 so…
+256 - 224 = 32 so… Jump within the IP determined by the decimal value of the borrowed bit. If 3 bits have been borrowed than the jump will be 32. 256-Jump = Mask; 256-Mask = Jump. 256-32 = 224; 256-224 = 32
 
 Using 32, we step through the address blocks 0, 32,64, and 96.
 Since 77 is between 64 and 96, there’s our range.
