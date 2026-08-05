@@ -136,7 +136,7 @@ Each wire pair is **bidirectional** so can transmit/receive much faster than 10/
 
 Fiber-Optic Connections:
 
-- Defined in the IEEE 802.3ae standard
+- Defined in the IEEE 802.3ae standard(exclusive to the 10GBPS connection)
 
 SFP Transceiver (Small Form-Factor Pluggable) allows fiber-optic cables to connect to switches/routers.
 
